@@ -1,0 +1,9 @@
+local\noeantonio\dukemarket\javafx\PrimaryController.class
+local\noeantonio\dukemarket\javafx\SecondaryController.class
+local\noeantonio\dukemarket\javafx\model\Produto.class
+local\noeantonio\dukemarket\javafx\controller\MenuPrincipalController.class
+module-info.class
+local\noeantonio\dukemarket\javafx\DAO\ProdutoDAO.class
+connection\MySQLConnection.class
+local\noeantonio\dukemarket\javafx\App.class
+local\noeantonio\dukemarket\javafx\controller\ScrProdutosController.class
